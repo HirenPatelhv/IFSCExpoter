@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\IFSCUpdater\\IFSCUpdater.csproj": {}
+    "E:\\Hiren\\GH\\IFSCImporter\\IFSCExpoter\\IFSCUpdater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\IFSCUpdater\\IFSCUpdater.csproj": {
+    "E:\\Hiren\\GH\\IFSCImporter\\IFSCExpoter\\IFSCUpdater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\IFSCUpdater\\IFSCUpdater.csproj",
+        "projectUniqueName": "E:\\Hiren\\GH\\IFSCImporter\\IFSCExpoter\\IFSCUpdater.csproj",
         "projectName": "IFSCUpdater",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\IFSCUpdater\\IFSCUpdater.csproj",
+        "projectPath": "E:\\Hiren\\GH\\IFSCImporter\\IFSCExpoter\\IFSCUpdater.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\IFSCUpdater\\obj\\",
+        "outputPath": "E:\\Hiren\\GH\\IFSCImporter\\IFSCExpoter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
