@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFSCUpdater", "IFSCUpdater.csproj", "{3727B0CC-F0AF-4CE3-8675-5DB43544B58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3727B0CC-F0AF-4CE3-8675-5DB43544B58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3727B0CC-F0AF-4CE3-8675-5DB43544B58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3727B0CC-F0AF-4CE3-8675-5DB43544B58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3727B0CC-F0AF-4CE3-8675-5DB43544B58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CBB2E5F-2C0A-4DD2-8B88-B116D27C554E}
+	EndGlobalSection
+EndGlobal
